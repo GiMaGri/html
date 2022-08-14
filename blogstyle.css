@@ -1,0 +1,40 @@
+img {
+	height:200;
+	
+	border: 5px solid #FFFFCC;
+	
+}
+div {
+	color: #8D72AE; 
+	font: Verdana;
+	background-color: #FFFFCC; 
+}
+
+
+body {
+	font-family: Helvetica;
+	 
+	}
+
+.green {
+	color: #00CC99;
+	
+}
+
+.backlink {
+	background-color: #FFFFCC;
+}
+span {
+	background-color: #ADEBAD; 
+}
+ul {
+	background-color: #ADEBAD; 
+}
+
+#greeting {
+	font: Serif;
+}
+
+#pic {
+	border: 8px solid #FFFFCC;
+}
