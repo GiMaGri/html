@@ -7,6 +7,7 @@ img {
 div {
 	color: #8D72AE; 
 	font: Verdana;
+	font-size: 15px;
 	background-color: #FFFFCC; 
 }
 
@@ -33,6 +34,7 @@ ul {
 
 #greeting {
 	font: Serif;
+	
 }
 
 #pic {
